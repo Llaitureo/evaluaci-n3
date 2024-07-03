@@ -1,0 +1,3 @@
+from funcion import *
+
+menu()
